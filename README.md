@@ -1,4 +1,4 @@
-#Java adding numbers Project
+# Adding numbers Java Project
 
 *Project for adding number with  Java applications which do coomon tasks.*
 
