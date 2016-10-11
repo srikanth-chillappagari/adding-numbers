@@ -1,6 +1,6 @@
-#Java Project
+#Java adding numbers Project
 
-*Project for creating Java applications which do coomon tasks.*
+*Project for adding number with  Java applications which do coomon tasks.*
 
 **Java 7**
 
